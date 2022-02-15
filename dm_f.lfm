@@ -1,0 +1,98 @@
+object DM: TDM
+  OnCreate = DataModuleCreate
+  OldCreateOrder = False
+  Height = 304
+  HorizontalOffset = 1195
+  VerticalOffset = 233
+  Width = 416
+  PPI = 96
+  object DSetDati: TUIBDataSet
+    Transaction = TR
+    Database = DB
+    OnClose = etmCommitRetaining
+    OnError = etmRollbackRetaining
+    SQL.Strings = (
+      'select * from anagrafica'
+    )
+    left = 224
+    top = 48
+  end
+  object DSetArchivi: TUIBDataSet
+    Transaction = TR
+    Database = DB
+    OnClose = etmCommitRetaining
+    OnError = etmRollbackRetaining
+    SQL.Strings = (
+      'SELECT r.GRADO, r.MATR_MEC, r.NOMINATIVO, r.REPARTO, r.COD_REPARTO, r.KSGRADO,'
+      '    r.KSREPARTO, r.COGNOME, r.NOME, r.IDMILITARI'
+      'FROM VIEW_MILITARI r'
+    )
+    left = 152
+    top = 40
+  end
+  object DSetTemp: TUIBDataSet
+    Transaction = TR
+    Database = DB
+    OnClose = etmCommitRetaining
+    OnError = etmRollbackRetaining
+    left = 184
+    top = 136
+  end
+  object DB: TUIBDataBase
+    Params.Strings = (
+      'sql_dialect=3'
+      'lc_ctype=UTF8'
+      'password=masterkey'
+      'user_name=SYSDBA'
+    )
+    CharacterSet = csUTF8
+    UserName = 'SYSDBA'
+    PassWord = 'masterkey'
+    left = 32
+    top = 40
+  end
+  object TR: TUIBTransaction
+    DataBase = DB
+    Options = [tpConcurrency, tpWait, tpWrite, tpAutoCommit]
+    left = 88
+    top = 40
+  end
+  object QTemp: TUIBQuery
+    Transaction = TR
+    DataBase = DB
+    left = 56
+    top = 136
+  end
+  object DSetDatiMod135: TUIBDataSet
+    Transaction = TR
+    Database = DB
+    OnClose = etmCommitRetaining
+    OnError = etmRollbackRetaining
+    left = 280
+    top = 144
+  end
+  object DSetMagazzino: TUIBDataSet
+    Transaction = TR
+    Database = DB
+    OnClose = etmCommitRetaining
+    OnError = etmRollbackRetaining
+    left = 152
+    top = 224
+  end
+  object DSetDatiMagazzino: TUIBDataSet
+    Transaction = TR
+    Database = DB
+    OnClose = etmCommitRetaining
+    OnError = etmRollbackRetaining
+    left = 272
+    top = 224
+  end
+  object DSetCodici: TUIBDataSet
+    Transaction = TR
+    Database = DB
+    OnClose = etmCommitRetaining
+    OnError = etmRollbackRetaining
+    left = 296
+    top = 48
+  end
+end

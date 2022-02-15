@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Release"/>
+    <Units Count="43">
+      <Unit0>
+        <Filename Value="GestioneVestiario.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="34" Y="4"/>
+        <UsageCount Value="181"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main_f.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="main"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="277"/>
+        <CursorPos X="2" Y="280"/>
+        <UsageCount Value="181"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="dm_f.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DM"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="DM_f"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="47"/>
+        <CursorPos X="37" Y="86"/>
+        <UsageCount Value="181"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="fmmagazzino_f.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FmMagazzino"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="fmMagazzino_f"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="127"/>
+        <CursorPos X="3" Y="156"/>
+        <UsageCount Value="169"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="frmod135_f.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrMod135"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="407"/>
+        <CursorPos X="39" Y="432"/>
+        <UsageCount Value="167"/>
+        <Bookmarks Count="2">
+          <Item0 ID="3"/>
+          <Item1 X="92" Y="445" ID="1"/>
+        </Bookmarks>
+      </Unit4>
+      <Unit5>
+        <Filename Value="fmcaricomagazzino_f.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FmCaricoMagazzino"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FmCaricoMagazzino_f"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="185" Y="62"/>
+        <UsageCount Value="106"/>
+        <Bookmarks Count="1">
+          <Item0 Y="196" ID="2"/>
+        </Bookmarks>
+      </Unit5>
+      <Unit6>
+        <Filename Value="fmricerche_f.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FmRicerche"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FmRicerche_f"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="78"/>
+        <CursorPos X="22" Y="78"/>
+        <UsageCount Value="84"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="fmpopupvestiario_f.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FmPopUpVestiario"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FmPopUpVestiario_f"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="12"/>
+        <CursorPos X="83" Y="32"/>
+        <UsageCount Value="76"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="fmautorizzazioni_f.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FmAutorizzazioni"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="107"/>
+        <CursorPos X="101" Y="125"/>
+        <UsageCount Value="65"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="fmcodicivestiario_f.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FmCodiciVestiario"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FmCodiciVestiario_f"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="214"/>
+        <CursorPos X="66" Y="243"/>
+        <UsageCount Value="61"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="fmcontratti_f.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FmContratti"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FmContratti_f"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="30"/>
+        <CursorPos X="49" Y="48"/>
+        <UsageCount Value="57"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="wtvarie_f.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="WTVarie_f"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="13" Y="13"/>
+        <UsageCount Value="56"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus1-6-4\fpc\3.0.2\source\rtl\objpas\sysutils\finah.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="10" Y="23"/>
+        <UsageCount Value="4"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\lazarus1-6-4\fpc\3.0.2\source\rtl\objpas\sysutils\filutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="132"/>
+        <CursorPos X="10" Y="150"/>
+        <UsageCount Value="4"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="E:\NewCompLazarus\fpspreadsheet-1.8.4\source\common\fpstypes.pas"/>
+        <UnitName Value="fpsTypes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="694"/>
+        <CursorPos X="3" Y="711"/>
+        <UsageCount Value="12"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="E:\NewCompLazarus\fpspreadsheet-1.8.4\source\common\fpspreadsheet.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="459"/>
+        <CursorPos X="15" Y="475"/>
+        <UsageCount Value="12"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="E:\NewCompLazarus\fpspreadsheet-1.8.4\source\export\fpsexport.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="3" Y="28"/>
+        <UsageCount Value="3"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus1-6-4\fpc\3.0.2\source\packages\fcl-db\src\export\fpdbexport.pp"/>
+        <UnitName Value="fpDBExport"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="165"/>
+        <CursorPos X="14" Y="182"/>
+        <UsageCount Value="3"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\lazarus1-6-4\fpc\3.0.2\source\packages\fcl-db\src\base\db.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1370"/>
+        <CursorPos X="3" Y="1388"/>
+        <UsageCount Value="3"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\GestionePersonale\main_f.pas"/>
+        <ComponentName Value="main"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="3"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="..\GestionePersonale\fmdatipersonali_f.pas"/>
+        <ComponentName Value="FmDatiPersonali"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="406"/>
+        <CursorPos X="12" Y="439"/>
+        <UsageCount Value="3"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="..\GestionePersonale\fmexportexcel_f.pas"/>
+        <ComponentName Value="FmExportExcel"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="82"/>
+        <UsageCount Value="3"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\nuovo gestionale\main_f.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="130"/>
+        <CursorPos X="3" Y="147"/>
+        <UsageCount Value="3"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\nuovo gestionale\fmexportexcel_f.pas"/>
+        <ComponentName Value="FmExportExcel"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="40" Y="9"/>
+        <UsageCount Value="3"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="..\GestionePersonale\frgradi_f.pas"/>
+        <ComponentName Value="FrGradi"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UnitName Value="FrGradi_f"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="154"/>
+        <CursorPos X="25" Y="160"/>
+        <UsageCount Value="3"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="E:\NewCompLazarus\uib25\source\uib.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="138"/>
+        <CursorPos X="3" Y="87"/>
+        <UsageCount Value="9"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="234"/>
+        <CursorPos X="21" Y="251"/>
+        <UsageCount Value="8"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="E:\NewCompLazarus\tric\VclTrita\LSystemTrita.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="420"/>
+        <CursorPos X="23" Y="435"/>
+        <UsageCount Value="23"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="E:\NewCompLazarus\tric\wtnavigator.pas"/>
+        <UnitName Value="WTNavigator"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="48" Y="14"/>
+        <UsageCount Value="7"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="E:\NewCompLazarus\tric\wteditcompnew.pas"/>
+        <UnitName Value="wteditcompNew"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="717"/>
+        <CursorPos X="37" Y="270"/>
+        <UsageCount Value="12"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\fcl-db\src\base\db.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <CursorPos X="3" Y="49"/>
+        <UsageCount Value="11"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1750"/>
+        <CursorPos X="14" Y="1766"/>
+        <UsageCount Value="7"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="C:\lazarus\lcl\lcltype.pp"/>
+        <UnitName Value="LCLType"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="753"/>
+        <CursorPos X="3" Y="771"/>
+        <UsageCount Value="7"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="E:\NewCompLazarus\uib25\source\uibdataset.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="173"/>
+        <CursorPos X="3" Y="191"/>
+        <UsageCount Value="16"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="immagini\5678835_q42naweeok.jpg"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="92"/>
+        <CursorPos X="3" Y="109"/>
+        <UsageCount Value="9"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="51"/>
+        <CursorPos X="3" Y="69"/>
+        <UsageCount Value="10"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="C:\lazarus\lcl\menus.pp"/>
+        <UnitName Value="Menus"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="355"/>
+        <CursorPos X="3" Y="373"/>
+        <UsageCount Value="10"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="frmod135_f.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="163"/>
+        <CursorPos X="71" Y="173"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="fmmagazzino_f.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="E:\programmi lazarus ufficio\Programmi Lazarus16\GestioneVestiario\frmod135_f.pas"/>
+        <ComponentName Value="FrMod135"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="50" Y="24"/>
+        <UsageCount Value="10"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="E:\programmi lazarus ufficio\Programmi Lazarus16\GestioneVestiario\frmod135_f.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="..\..\NewCompLazarus\tric\VclTrita\LSystemTrita.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="254"/>
+        <CursorPos Y="289"/>
+        <UsageCount Value="10"/>
+      </Unit42>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="fmautorizzazioni_f.pas"/>
+        <Line Value="136"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

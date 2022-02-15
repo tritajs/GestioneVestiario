@@ -1,0 +1,56 @@
+
+CH116AQ052FW100 (Client)	Thu Aug 23 12:30:43 2018
+	INET/inet_error: read errno = 10054
+
+
+CH116AQ052FW100 (Client)	Thu Aug 23 12:30:43 2018
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database. 
+	Uncommitted work may have been lost
+
+
+CH116AQ052FW100 (Client)	Thu Aug 23 14:53:10 2018
+	INET/inet_error: read errno = 10054
+
+
+CH116AQ052FW100 (Client)	Thu Aug 23 14:53:10 2018
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database. 
+	Uncommitted work may have been lost
+
+
+CH116AQ052FW100 (Client)	Mon Aug 27 16:33:26 2018
+	INET/inet_error: connect errno = 10060
+
+
+CH116AQ052FW100 (Client)	Mon Aug 27 16:34:12 2018
+	INET/inet_error: connect errno = 10060
+
+
+CH116AQ052FW100 (Client)	Mon Aug 27 16:34:35 2018
+	INET/inet_error: connect errno = 10060
+
+
+CH116AQ052FW100 (Client)	Wed Aug 29 08:29:45 2018
+	INET/inet_error: read errno = 10054
+
+
+CH116AQ052FW100 (Client)	Wed Aug 29 08:29:46 2018
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database. 
+	Uncommitted work may have been lost
+
+
+CH116AQ052FW100 (Client)	Wed Aug 29 08:34:04 2018
+	INET/inet_error: connect errno = 10060
+
+
+CH116AQ052FW100 (Client)	Wed Aug 29 08:34:27 2018
+	INET/inet_error: connect errno = 10060
+
+
+CH116AQ052FW100 (Client)	Wed Aug 29 08:36:13 2018
+	INET/inet_error: read errno = 10054
+
+
+CH116AQ052FW100 (Client)	Wed Aug 29 08:36:13 2018
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database. 
+	Uncommitted work may have been lost
+

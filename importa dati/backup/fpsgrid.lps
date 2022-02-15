@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Release"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="fpsgrid.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="26"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="129"/>
+        <CursorPos X="3" Y="133"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\spin.pp"/>
+        <UnitName Value="Spin"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="E:\NewCompLazarus\tric\VclTrita\LSystemTrita.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="61" Y="10"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="158" Column="54" TopLine="132"/>
+      </Position1>
+      <Position2>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="157" Column="54" TopLine="131"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="154" TopLine="132"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="156" Column="3" TopLine="126"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="139" TopLine="131"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="155" Column="5" TopLine="140"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="154" TopLine="140"/>
+      </Position7>
+      <Position8>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="137" Column="48" TopLine="124"/>
+      </Position8>
+      <Position9>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="153" Column="5" TopLine="122"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="154" TopLine="125"/>
+      </Position10>
+      <Position11>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="160" Column="66" TopLine="129"/>
+      </Position11>
+      <Position12>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="156" Column="74" TopLine="122"/>
+      </Position12>
+      <Position13>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="139" Column="42" TopLine="120"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="145" Column="45" TopLine="121"/>
+      </Position14>
+      <Position15>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="141" Column="55" TopLine="123"/>
+      </Position15>
+      <Position16>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="143" Column="57" TopLine="124"/>
+      </Position16>
+      <Position17>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="18" Column="46"/>
+      </Position17>
+      <Position18>
+        <Filename Value="mainform.pas"/>
+        <Caret Column="8"/>
+      </Position18>
+      <Position19>
+        <Filename Value="E:\NewCompLazarus\tric\VclTrita\LSystemTrita.pas"/>
+        <Caret Line="39" Column="25" TopLine="25"/>
+      </Position19>
+      <Position20>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="140" Column="38" TopLine="121"/>
+      </Position20>
+      <Position21>
+        <Filename Value="E:\NewCompLazarus\tric\VclTrita\LSystemTrita.pas"/>
+        <Caret Line="39" Column="12" TopLine="21"/>
+      </Position21>
+      <Position22>
+        <Filename Value="E:\NewCompLazarus\tric\VclTrita\LSystemTrita.pas"/>
+        <Caret Line="11" Column="3"/>
+      </Position22>
+      <Position23>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="139" Column="17" TopLine="125"/>
+      </Position23>
+      <Position24>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="151" TopLine="121"/>
+      </Position24>
+      <Position25>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="150" Column="17" TopLine="135"/>
+      </Position25>
+      <Position26>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="141" Column="8" TopLine="133"/>
+      </Position26>
+      <Position27>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="144" Column="39" TopLine="127"/>
+      </Position27>
+      <Position28>
+        <Filename Value="E:\NewCompLazarus\tric\VclTrita\LSystemTrita.pas"/>
+        <Caret Line="39" Column="12" TopLine="21"/>
+      </Position28>
+      <Position29>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="150" Column="72" TopLine="127"/>
+      </Position29>
+      <Position30>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="160" Column="26" TopLine="133"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
